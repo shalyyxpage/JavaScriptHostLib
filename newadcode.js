@@ -1,1 +1,1 @@
-const targetUrl = "https://omg10.com/4/9421366";
+const targetUrl = "https://omg10.com/4/10615631";
