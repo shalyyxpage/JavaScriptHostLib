@@ -1,5 +1,5 @@
 const adLinks = [
-        "https://www.profitablecpmrate.com/ad-link-1-here", 
-        "https://www.profitablecpmrate.com/ad-link-2-here", 
-        "https://www.profitablecpmrate.com/ad-link-3-here"  
+        "https://omg10.com/4/6825061", // 1 වෙනි වතාවේදී
+        "https://omg10.com/4/9421366", // 2 වෙනි වතාවේදී
+        "https://omg10.com/4/8442621", // 3 වෙනි වතාවේදී  
     ];
